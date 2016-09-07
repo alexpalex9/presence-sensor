@@ -1,0 +1,22 @@
+{
+  "name": "presence-sensor",
+  "version": "1.0.0",
+  "description": "detection of people around wifi",
+  "main": "alexPresenceSensor.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "unknown"
+  },
+  "keywords": [
+    "ping", "ip"
+  ],
+  "author": "alexandre ambourg",
+  "license": "ISC",
+  "dependencies": {
+	  "ping":"^0.1.10",
+	  "node-schedule": "^1.1.0"
+   }
+}
