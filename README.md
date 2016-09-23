@@ -1,7 +1,7 @@
 # presence-sensor
 
 this module is actually a simple wrapper for ping.
-it uses ping modules to detect presence of people around a wifi box with their smartphone and deduce if the house is empty or not.
+it uses ping module to detect presence of people around a wifi box with their smartphone and deduce if the house is empty or not.
 
 - init script with json input :
 .init ({name : { ip : '192.168.1.95'})
