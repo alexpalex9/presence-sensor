@@ -8,8 +8,6 @@ var loginData;
 var pingJob=false;
 var hosts =[];
 
-var data={};
-
 var isHouseEmpty="unknown";
 var wasHouseEmpty="unknown";
 
